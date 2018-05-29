@@ -2,7 +2,6 @@ require 'rails_admin_json_translate/engine'
 require 'rails_admin'
 require 'rails_admin/config/fields'
 require 'rails_admin/config/fields/base'
-require 'i18n-language-translations'
 require 'emoji_flag'
 
 module RailsAdmin
